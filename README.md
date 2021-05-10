@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Uzor13/Stats-preview)
-- Live Site URL: [Add live site URL here](https://boring-turing-58e313.netlify.app)
+- Solution URL:(https://github.com/Uzor13/stats-preview)
+- Live Site URL:(https://elated-easley-ff74e8.netlify.app/)
 
 
 ### Built with
